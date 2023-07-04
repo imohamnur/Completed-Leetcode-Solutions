@@ -1,6 +1,6 @@
 # LeetCode Python Solutions
 
-This repository contains my Python solutions to various LeetCode problems. LeetCode is a popular platform for practicing coding skills and preparing for technical interviews. Here, you will find my solutions implemented in Python, organized by problem difficulty and categories.
+This repository contains my Python solutions to various LeetCode problems. LeetCode is a popular platform for practicing coding skills and preparing for technical interviews. Here, you will find my solutions organized by problem difficulty and categories.
 
 ## Problem Categories
 
