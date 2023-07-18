@@ -5,3 +5,5 @@ def twoSum(self, nums: List[int], target: int) -> List[int]:
             if target - nums[i] in nmap:
                 return [i, nmap[target - nums[i]]]
             nmap[nums[i]] = i
+
+#O(n)
