@@ -5,3 +5,5 @@ def containsDuplicate(self, nums: List[int]) -> bool:
                 return True
             numset.add(n)
         return False
+
+#O(n)
