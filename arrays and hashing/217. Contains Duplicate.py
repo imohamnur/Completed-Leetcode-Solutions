@@ -6,4 +6,4 @@ def containsDuplicate(self, nums: List[int]) -> bool:
             numset.add(n)
         return False
 
-#O(n)
+# O(n)
